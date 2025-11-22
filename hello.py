@@ -7,7 +7,7 @@ This is a basic Python script that demonstrates printing output
 def main():
     """Main function that prints a greeting message"""
     print("Hello, World!")
-    print("Welcome to the test repository!")
+    print("Welcome to the simple Python script.")
     
     # Simple calculation example
     x = 10
